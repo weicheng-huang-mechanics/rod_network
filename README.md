@@ -1,6 +1,6 @@
 # Overview
 
-This project focused on the 3d rod network dynamics.
+This project focused on the dynamics of the 3D rod network and the associated meta-material.
 
 <br/><img src='demo2.gif' width="600">
 
